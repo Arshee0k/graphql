@@ -120,6 +120,12 @@ svg.graph .x-labels {
 svg.graph .y-labels {
     text-anchor: middle;
 }
+
+.container {
+  display: grid;
+  justify-items: center;
+  margin: 1vh;
+}
 /* svg.graph .points {
     stroke: white;
     stroke-width: 3;
